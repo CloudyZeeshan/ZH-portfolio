@@ -156,7 +156,7 @@ export default function About() {
           <div className="text-center">
             <h2 className="text-3xl font-bold text-blue-500 mb-4">About Me</h2>
             <p className="text-lg leading-relaxed">
-              Hello! I&apos;m Zeeshan Haider, a passionate web developer focused on crafting engaging and
+              Hello! I&apos;m Cloudy Zeeshan., a passionate web developer focused on crafting engaging and
               user-friendly experiences. With expertise in JavaScript, Next.js, and React, I build
               web applications that are both visually appealing and highly functional.
             </p>
